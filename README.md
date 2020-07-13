@@ -7,8 +7,7 @@ Amazon EKS is a managed service that helps make it easier to run Kubernetes on A
 
 
 
-
- < img src="https://www.alfresco.com/sites/www.alfresco.com/files/2018/Nov/amazoneks_twitter.jpg?_buster=CFwpRD-B" >
+<img src= "https://www.alfresco.com/sites/www.alfresco.com/files/2018/Nov/amazoneks_twitter.jpg?_buster=CFwpRD-B" />
  
  
  
@@ -18,6 +17,8 @@ Amazon EKS is a managed service that helps make it easier to run Kubernetes on A
    
    
   1.[EFS-PROVISIONER]()
+  
+  
   2.[ROLE BINDING FOR EFS-PROVISIONER]()
  
  ## STORAGE CLASS WITH OUR OWN CREATED EFS-PROVISIONER:
