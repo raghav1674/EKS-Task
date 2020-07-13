@@ -11,7 +11,7 @@ Amazon EKS is a managed service that helps make it easier to run Kubernetes on A
  
  
  
- ## DEPLOYMENT OF JOOMLA AND MYSQL OVER EKS CLUSTER AND USING EFS AS A PVC :
+ ## DEPLOYMENT OF JOOMLA AND MYSQL OVER EKS CLUSTER AND USING EFS AS A PV:
  
  
  #### EKS CLSUTER
